@@ -11,7 +11,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <body>
         <?php
         print 'hola';
-        print 'nueva linea'
+        print 'nueva linea';
+        print 'nueva linea2';
+        
         ?>
     </body>
 </html>
